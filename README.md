@@ -1,6 +1,9 @@
 
 **Docker registry with s3 bucket storage**
 
+> gitHub: https://github.com/bannersnack-dev/s3registry
+> dockerHub: https://hub.docker.com/r/bannersnack/s3registry/
+
 > You need to create an s3 bucket, and credentials for it.
 
  - generate a username/password for the registry:
